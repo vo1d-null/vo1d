@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Oxanium :300,700,300,700|Oxanium:900");
+@import url("https://fonts.googleapis.com/css?family=Kanit:300,700,300,700|Tourney:900");
 
 
 html, body, div, span, applet, object,
@@ -143,9 +143,9 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Oxanium", Georgia, serif;
+		font-family: "Kanit", Georgia, serif;
 		font-weight: 300;
-		font-size: 1rem;
+		font-size: 1.1rem;
 		line-height: 2.375;
 	}
 
@@ -176,7 +176,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: "Oxanium", Helvetica, sans-serif;
+		font-family: "Tourney", Helvetica, sans-serif;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
@@ -240,16 +240,16 @@ input, select, textarea {
 
 	code {
 		border: solid 2px;
-		font-family: "Oxanium", monospace;
-		font-size: 0.9rem;
+		font-family: "Kanit", Helvetica, sans-serif;
+		font-size: 1.1rem;
 		margin: 0 0.25rem;
 		padding: 0.25rem 0.65rem;
 	}
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Oxanium", monospace;
-		font-size: 0.9rem;
+		font-family: "Kanit", Helvetica, sans-serif;
+		font-size: 1.1rem;
 		margin: 0 0 2rem 0;
 	}
 
@@ -2073,8 +2073,8 @@ input, select, textarea {
 		border-radius: 0;
 		cursor: pointer;
 		display: inline-block;
-		font-family: "Oxanium", Helvetica, sans-serif;
-		font-size: 0.8rem;
+		font-family: "Kanit", Helvetica, sans-serif;
+		font-size: 1rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
 		height: 3rem;
@@ -2308,11 +2308,11 @@ input, select, textarea {
 
 	label {
 		display: block;
-		font-family: "Oxanium", Helvetica, sans-serif;
+		font-family: "Tourney", Helvetica, sans-serif;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
-		font-size: 0.8rem;
+		font-size: 1rem;
 		text-transform: uppercase;
 		margin: 0 0 0.75rem 0;
 	}
@@ -3018,7 +3018,7 @@ input, select, textarea {
 		}
 
 		table th {
-			font-family: "Oxanium", Helvetica, sans-serif;
+			font-family: "Tourney", Helvetica, sans-serif;
 			font-size: 0.8rem;
 			font-weight: 900;
 			letter-spacing: 0.075em;
@@ -3118,8 +3118,8 @@ input, select, textarea {
 			transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
 			border: solid 2px;
 			display: inline-block;
-			font-family: "Oxanium", Helvetica, sans-serif;
-			font-size: 0.8rem;
+			font-family: "Tourney", Helvetica, sans-serif;
+			font-size: 1.24rem;
 			font-weight: 900;
 			height: 3rem;
 			letter-spacing: 0.075em;
@@ -3561,8 +3561,8 @@ input, select, textarea {
 			border-style: solid;
 			border-color: #ffffff;
 			border-width: 5px !important;
-			font-family: "Oxanium", Helvetica, sans-serif;
-			font-size: 2.25rem;
+			font-family: "Tourney", Helvetica, sans-serif;
+			font-size: 2.55rem;
 			font-weight: 900;
 			letter-spacing: 0.075em;
 			line-height: 1;
@@ -3686,7 +3686,7 @@ input, select, textarea {
 			-webkit-flex-shrink: 1;
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
-			font-family: "Oxanium", Helvetica, sans-serif;
+			font-family: "Tourney", Helvetica, sans-serif;
 			font-weight: 900;
 			letter-spacing: 0.075em;
 			list-style: none;
@@ -4382,8 +4382,8 @@ input, select, textarea {
 		position: relative;
 		color: rgba(255, 255, 255, 0.25);
 		cursor: default;
-		font-family: "Oxanium", Helvetica, sans-serif;
-		font-size: 0.8rem;
+		font-family: "Kanit", Helvetica, sans-serif;
+		font-size: 1.25rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
 		line-height: 1.5;
@@ -4492,7 +4492,7 @@ input, select, textarea {
 		right: 0.75rem;
 		border: 0;
 		color: #ffffff;
-		font-family: "Oxanium", Helvetica, sans-serif;
+		font-family: "Tourney", Helvetica, sans-serif;
 		font-size: 0.9rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -4584,7 +4584,7 @@ input, select, textarea {
 				#navPanel .links li a {
 					border-bottom: 0;
 					display: block;
-					font-family: "Oxanium", Helvetica, sans-serif;
+					font-family: "Tourney", Helvetica, sans-serif;
 					font-size: 0.9rem;
 					font-size: 0.9rem;
 					font-weight: 900;
