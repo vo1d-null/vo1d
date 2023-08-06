@@ -2671,6 +2671,65 @@ input, select, textarea {
 			transform: scale(1.05);
 		}
 
+    /* Certificates grid */
+
+	.img-grid {
+	    display: grid;
+        grid-template-columns: repeat(var(--num-cols), 1fr);
+        grid-auto-rows: var(--row-height);
+        gap: var(--gap);
+
+        display: -moz-flex;
+        display: -webkit-flex;
+        display: -ms-flex;
+        display: flex;
+        -moz-flex-wrap: wrap;
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+
+        --gap: 16px;
+        --num-cols: 4;
+        --row-height: 800px;
+
+        box-sizing: border-box;
+        padding: var(--gap);
+    }
+
+    .img-grid > img {
+        width: 20%;
+        height: 20%;
+        object-fit: cover;
+    }
+
+    a.img-grid > img {
+	    display: grid;
+        grid-template-columns: repeat(var(--num-cols), 1fr);
+        grid-auto-rows: var(--row-height);
+        gap: var(--gap);
+
+        display: -moz-flex;
+        display: -webkit-flex;
+        display: -ms-flex;
+        display: flex;
+        -moz-flex-wrap: wrap;
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+
+        --gap: 16px;
+        --num-cols: 4;
+        --row-height: 800px;
+
+        box-sizing: border-box;
+        padding: var(--gap);
+    }
+
+    a.img-grid > img {
+        width: 20%;
+        height: 20%;
+        object-fit: cover;
+    }
 /* Actions */
 
 	ul.actions {
