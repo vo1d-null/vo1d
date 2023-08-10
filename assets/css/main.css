@@ -2036,6 +2036,7 @@ input, select, textarea {
 		border: solid 2px;
 		margin-bottom: 2rem;
 		padding: 1.5rem;
+		hover:(transform:scale(1.1));
 	}
 
 		.box > :last-child,
@@ -2049,6 +2050,11 @@ input, select, textarea {
 			border-radius: 0;
 			padding: 0;
 		}
+		.box.alt img:hover{
+            transition:transform 0.2s ease-in-out;
+            transform:scale(1.05);
+            cursor : pointer;
+        }
 
 	.box {
 		border-color: #eeeeee;
@@ -2728,7 +2734,7 @@ input, select, textarea {
     a.img-grid > img {
         width: 20%;
         height: 20%;
-        object-fit: cover;
+        object-fit: scale-down;
     }
 /* Actions */
 
