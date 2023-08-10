@@ -1,18 +1,25 @@
-# Personal Website Project - README
+# Portfolio Website Project - README
 
-Welcome to the repository for my personal website project. This website showcases my portfolio, features an online shop, and provides information about me and my work. It is built using HTML5, CSS3, JavaScript, jQuery, and SCSS, and it is live at [https://vo1d-null.github.io/vo1d/](https://vo1d-null.github.io/vo1d/) thanks to GitHub Pages hosting.
+Welcome to the repository for my personal website project. This website showcases my portfolio, features an online shop, and provides information about me and my work.
+It is built using HTML5, CSS3, JavaScript, jQuery, and SCSS, and it is live at [https://vo1d-null.github.io/vo1d/](https://vo1d-null.github.io/vo1d/) thanks to GitHub Pages.
 
 ## Features
 
-- **Home:** The landing page that welcomes visitors and provides an overview of the website's content.
+- **Home:** The landing page that welcomes visitors and has short bio in it.
 - **About:** Discover more about me, my background, skills, and experiences.
 - **Certificates:** Showcase my achievements and certifications that highlight my expertise.
-- **Bushido Code Apparel:** Explore my online shop, offering a range of stylish and meaningful apparel.
+- **Bushido Code Apparel:** Explore my online shop,for stylish and meaningful apparel.
 - **Responsive Design:** The website is designed to be responsive, ensuring a seamless experience across devices.
 
 ## Short Video Showcase
 
-Check out this short video showcasing the highlights of the website: [View Video](https://www.youtube.com/watch?v=eWOhpiTZ9mQ).
+Check out this short video showcasing the highlights of the website:
+
+<a href="https://www.youtube.com/watch?v=eWOhpiTZ9mQ">
+   
+  <img src="https://img.youtube.com/vi/watch?v=eWOhpiTZ9mQ/0.jpg" alt="Video Thumbnail" width="480">
+  
+</a>
 
 ## Technologies Used
 
@@ -41,7 +48,7 @@ To run this project locally on your machine, follow these steps:
 
 ## Online Shop - Bushido Code Apparel
 
-Check out the "Bushido Code Apparel" section of the website to explore the online shop. From stylish designs to meaningful messages, the shop offers a unique collection that aligns with my vision.
+Check out the "Bushido Code Apparel" section of the website to explore the online shop. It has stylish designs and meaningful messages.Every collection is unique and aligns with my vision.
 
 ## Live Website
 
