@@ -12,7 +12,7 @@ Welcome to the repository for my personal website project. This website showcase
 
 ## Short Video Showcase
 
-Check out this short video showcasing the highlights of the website: [View Video]([https://example.com/short-video-lin](https://www.youtube.com/watch?v=eWOhpiTZ9mQ)).
+Check out this short video showcasing the highlights of the website: [View Video]((https://www.youtube.com/watch?v=eWOhpiTZ9mQ).
 
 ## Technologies Used
 
