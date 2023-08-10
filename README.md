@@ -15,9 +15,7 @@ It is built using HTML5, CSS3, JavaScript, jQuery, and SCSS, and it is live at [
 
 Check out the video showcasing the website:
 
-<a href="https://www.youtube.com/watch?v=eWOhpiTZ9mQ">
-   <img src="https://img.youtube.com/vi/watch?v=eWOhpiTZ9mQ/0.jpg" alt="Video Thumbnail" width="480">
-</a>
+[![Video Thumbnail](https://img.youtube.com/vi/eWOhpiTZ9mQ/0.jpg)](https://www.youtube.com/watch?v=eWOhpiTZ9mQ)
 
 ## Technologies Used
 
