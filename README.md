@@ -52,7 +52,7 @@ Explore the live version of the website [here](https://vo1d-null.github.io/vo1d/
 Feel free to connect with me if you have any questions or feedback:
 
 - **Email:** vo1d.null299@gmail.com
-- **LinkedIn:** [@Nikolay Gerginov]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/nikolay-gerginov-vo1d-null/))
+- **LinkedIn:** [@Nikolay Gerginov](https://www.linkedin.com/in/nikolay-gerginov-vo1d-null)
 - **GitHub:** [@vo1d-null](https://github.com/vo1d-null)
 
 Thank you for visiting my project repository and exploring my work!
