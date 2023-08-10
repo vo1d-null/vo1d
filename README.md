@@ -11,26 +11,24 @@ It is built using HTML5, CSS3, JavaScript, jQuery, and SCSS, and it is live at [
 - **Bushido Code Apparel:** Explore my online shop,for stylish and meaningful apparel.
 - **Responsive Design:** The website is designed to be responsive, ensuring a seamless experience across devices.
 
-## Short Video Showcase
+## Video Showcase
 
-Check out this short video showcasing the highlights of the website:
+Check out the video showcasing the website:
 
 <a href="https://www.youtube.com/watch?v=eWOhpiTZ9mQ">
-   
-  <img src="https://img.youtube.com/vi/watch?v=eWOhpiTZ9mQ/0.jpg" alt="Video Thumbnail" width="480">
-  
+   <img src="https://img.youtube.com/vi/watch?v=eWOhpiTZ9mQ/0.jpg" alt="Video Thumbnail" width="480">
 </a>
 
 ## Technologies Used
 
-- **Front-end:** HTML5, CSS3, JavaScript for creating the core structure and interactivity.
-- **Styling:** SCSS for efficient and organized styling.
-- **jQuery:** Used for enhanced interactivity and dynamic content.
-- **GitHub Pages:** Hosting platform to make the website live and accessible.
+- **Front-end:** HTML5, CSS3, JavaScript for creating the core structure and interactiveness.
+- **Styling:** SCSS for organized styling.
+- **jQuery:** Used for interactivity and dynamic content.
+- **GitHub Pages:** Hosting platform to make the website live.
 
 ## Getting Started
 
-To run this project locally on your machine, follow these steps:
+To run this project locally , follow these steps:
 
 1. **Clone the Repository:**
    ```bash
