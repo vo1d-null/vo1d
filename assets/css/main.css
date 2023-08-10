@@ -2051,9 +2051,8 @@ input, select, textarea {
 			padding: 0;
 		}
 		.box.alt img:hover{
-            transition:transform 0.2s ease-in-out;
+            transition:transform 0.3s ease-in-out;
             transform:scale(1.05);
-            cursor : pointer;
         }
 
 	.box {
