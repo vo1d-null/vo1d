@@ -7,9 +7,9 @@ It is built using HTML5, CSS3, JavaScript, jQuery, and SCSS, and it is live at [
 
 - **Home:** The landing page that welcomes visitors and has short bio in it.
 - **About:** Discover more about me, my background, skills, and experiences.
-- **Certificates:** Showcase my achievements and certifications that highlight my expertise.
+- **Certificates:** Showcase my achievements and certifications.
 - **Bushido Code Apparel:** Explore my online shop,for stylish and meaningful apparel.
-- **Responsive Design:** The website is designed to be responsive, ensuring a seamless experience across devices.
+- **Responsive Design:** The website is designed with the idea to be responsive,
 
 ## Video Showcase
 
